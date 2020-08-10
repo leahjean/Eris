@@ -1,0 +1,1106 @@
+fileFormatVersion: 2
+guid: 03f2206f3e4d04df096a8216fffe71f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3511247765927213647
+    second: LunkHit_0
+  - first:
+      213: -5089583438084684469
+    second: LunkHit_1
+  - first:
+      213: -5039078384663207508
+    second: LunkHit_2
+  - first:
+      213: 199362846448920638
+    second: LunkHit_3
+  - first:
+      213: 90316378739751638
+    second: LunkHit_4
+  - first:
+      213: 5399224897220793555
+    second: LunkHit_5
+  - first:
+      213: 2275700087388114109
+    second: LunkHitDown
+  - first:
+      213: 800183224805716020
+    second: LunkHit_7
+  - first:
+      213: -2274985673869155525
+    second: LunkHit_8
+  - first:
+      213: 1454652077298645884
+    second: LunkHit_9
+  - first:
+      213: 8039815401976679085
+    second: LunkHit_10
+  - first:
+      213: -7715569246227761794
+    second: LunkHit_11
+  - first:
+      213: -2434485071133911518
+    second: LunkHit_12
+  - first:
+      213: 927423349874725259
+    second: LunkHit_13
+  - first:
+      213: -2871120675648915978
+    second: LunkHitLeft
+  - first:
+      213: -8936527953633655801
+    second: LunkHit_15
+  - first:
+      213: 120652736894252135
+    second: LunkHit_16
+  - first:
+      213: 823027386486555339
+    second: LunkHit_17
+  - first:
+      213: -8681068597191137705
+    second: LunkHit_18
+  - first:
+      213: 335662556118781461
+    second: LunkHit_19
+  - first:
+      213: -7443056355490357129
+    second: LunkHit_20
+  - first:
+      213: -8797370960906788581
+    second: LunkHit_21
+  - first:
+      213: -5169817419005270966
+    second: LunkHitRight
+  - first:
+      213: 7199315678747301775
+    second: LunkHit_23
+  - first:
+      213: 5550757778136199601
+    second: LunkHit_24
+  - first:
+      213: 6695358601886884485
+    second: LunkHit_25
+  - first:
+      213: -8468890584513962149
+    second: LunkHit_26
+  - first:
+      213: 7436557225129964348
+    second: LunkHit_27
+  - first:
+      213: 155427844076281051
+    second: LunkHit_28
+  - first:
+      213: 2518236743458961990
+    second: LunkHitUp
+  - first:
+      213: 3293340157500226545
+    second: LunkHit_30
+  - first:
+      213: -139747586342289658
+    second: LunkHit_31
+  - first:
+      213: -2126621949667928114
+    second: LunkHit_32
+  - first:
+      213: 5980253931336153171
+    second: LunkHit_33
+  - first:
+      213: -5236653481395975812
+    second: LunkHit_34
+  - first:
+      213: -7687390958706419125
+    second: LunkHit_35
+  - first:
+      213: 654797734803008378
+    second: LunkHit_36
+  - first:
+      213: -858448180218529422
+    second: LunkHit_37
+  - first:
+      213: -7664291461442707727
+    second: LunkHit_38
+  - first:
+      213: 8036134069139040233
+    second: LunkHit_39
+  - first:
+      213: 792835449824990348
+    second: LunkHit_40
+  - first:
+      213: 2503357195614525502
+    second: LunkHit_41
+  - first:
+      213: 4579587685333459260
+    second: LunkHit_42
+  - first:
+      213: 3472717113491999192
+    second: LunkHit_43
+  - first:
+      213: 592748234636750094
+    second: LunkHit_44
+  - first:
+      213: 5166141977435921478
+    second: LunkHit_45
+  - first:
+      213: -7357299887433451137
+    second: LunkHit_46
+  - first:
+      213: -6743245503723156220
+    second: LunkHit_47
+  - first:
+      213: -3428665643924091002
+    second: LunkHit_48
+  - first:
+      213: 4425974030439335491
+    second: LunkHit_49
+  - first:
+      213: -8044065311545705552
+    second: LunkHit_50
+  - first:
+      213: -1113412781725859463
+    second: LunkHit_51
+  - first:
+      213: -6659804213577497340
+    second: LunkHit_52
+  - first:
+      213: 4196759921665826748
+    second: LunkHit_53
+  - first:
+      213: -8864255868422717690
+    second: LunkHit_54
+  - first:
+      213: -7032979819892097323
+    second: LunkHit_55
+  - first:
+      213: -5235902466647601184
+    second: LunkHit_56
+  - first:
+      213: -7241480693736950159
+    second: LunkHit_57
+  - first:
+      213: -646512530904513047
+    second: LunkHit_58
+  - first:
+      213: -7904853942524984034
+    second: LunkHit_59
+  - first:
+      213: -4089018562464329255
+    second: LunkHit_60
+  - first:
+      213: 4364237660686194897
+    second: LunkHit_61
+  - first:
+      213: -4208465412751924738
+    second: LunkHit_62
+  - first:
+      213: -4313207864767543030
+    second: LunkHit_63
+  - first:
+      213: 6353296625485948079
+    second: LunkHit_64
+  - first:
+      213: 3555475734049504001
+    second: LunkHit_65
+  - first:
+      213: -6610499257016966420
+    second: LunkHit_66
+  - first:
+      213: -4110176002023624935
+    second: LunkHit_67
+  - first:
+      213: 31038785910028231
+    second: LunkHit_68
+  - first:
+      213: -8721006870592105230
+    second: LunkHit_69
+  - first:
+      213: 1716032734382720708
+    second: LunkHit_70
+  - first:
+      213: -8840542877831520698
+    second: LunkHit_71
+  - first:
+      213: -3600042498847270496
+    second: LunkHit_72
+  - first:
+      213: 1685509044922666454
+    second: LunkHit_73
+  - first:
+      213: -7330246722215497483
+    second: LunkHit_74
+  - first:
+      213: 606910563165217401
+    second: LunkHit_75
+  - first:
+      213: -450839358230245810
+    second: LunkHit_76
+  - first:
+      213: -3679548577135575358
+    second: LunkHit_77
+  - first:
+      213: -6570801594933892847
+    second: LunkHit_78
+  - first:
+      213: -3809906046894152373
+    second: LunkHit_79
+  - first:
+      213: 4213429771637192798
+    second: LunkHit_80
+  - first:
+      213: 8503808784107983888
+    second: LunkHit_81
+  - first:
+      213: 1721940639630729711
+    second: LunkHit_82
+  - first:
+      213: -2827141603074656771
+    second: LunkHit_83
+  - first:
+      213: -1878487713222508578
+    second: LunkHit_84
+  - first:
+      213: -2863937366390317264
+    second: LunkHit_85
+  - first:
+      213: -3133023544172253203
+    second: LunkHit_86
+  - first:
+      213: -3926564283575843697
+    second: LunkHit_87
+  - first:
+      213: 3506576948666082540
+    second: LunkHit_88
+  - first:
+      213: 1085031296436485930
+    second: LunkHit_89
+  - first:
+      213: -1762287525232340472
+    second: LunkHit_90
+  - first:
+      213: 2126187969294233330
+    second: LunkHit_91
+  - first:
+      213: -6002541789099832281
+    second: LunkHit_92
+  - first:
+      213: 6477562492854563550
+    second: LunkHit_93
+  - first:
+      213: 2482258527458210518
+    second: LunkHit_94
+  - first:
+      213: 7195010272093745960
+    second: LunkHit_95
+  - first:
+      213: 976093899691833891
+    second: LunkHit_96
+  - first:
+      213: 1695971914258179808
+    second: LunkHit_97
+  - first:
+      213: -6675118372818758280
+    second: LunkHit_98
+  - first:
+      213: -148100477554370760
+    second: LunkHit_99
+  - first:
+      213: 2195851695293118448
+    second: LunkHit_100
+  - first:
+      213: 6248764332050311300
+    second: LunkHit_101
+  - first:
+      213: -5995340104961961363
+    second: LunkHit_102
+  - first:
+      213: 3623276530434039434
+    second: LunkHit_103
+  - first:
+      213: 175591102344423188
+    second: LunkHit_104
+  - first:
+      213: -742599739725511130
+    second: LunkHit_105
+  - first:
+      213: -4218106170593044729
+    second: LunkHit_106
+  - first:
+      213: 3599838531142949762
+    second: LunkHit_107
+  - first:
+      213: 3997129184497271841
+    second: LunkHit_108
+  - first:
+      213: 7667157058031750609
+    second: LunkHit_109
+  - first:
+      213: 4591602208543131562
+    second: LunkHit_110
+  - first:
+      213: 3630784671596052002
+    second: LunkHit_111
+  - first:
+      213: -5858152837085343527
+    second: LunkHit_112
+  - first:
+      213: -2163837145016492480
+    second: LunkHit_113
+  - first:
+      213: -7882254548715018227
+    second: LunkHit_114
+  - first:
+      213: -2005436336345607137
+    second: LunkHit_115
+  - first:
+      213: -2014483850826236671
+    second: LunkHit_116
+  - first:
+      213: 2181207813207191968
+    second: LunkHit_117
+  - first:
+      213: -1512183232755378938
+    second: LunkHit_118
+  - first:
+      213: -1836468207063620402
+    second: LunkHit_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LunkHit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b54681a2ca854fc0800000000000000
+      internalID: -3511247765927213647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45404e24da2e59b0800000000000000
+      internalID: -5089583438084684469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1ecc648e8911ab0800000000000000
+      internalID: -5039078384663207508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38affbd37744c200800000000000000
+      internalID: 199362846448920638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dabe28944ed04100800000000000000
+      internalID: 90316378739751638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d45a4d0076edea40800000000000000
+      internalID: 5399224897220793555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHitDown
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc081c1c29e49f10800000000000000
+      internalID: 2275700087388114109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43075c54762da1b00800000000000000
+      internalID: 800183224805716020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b332def3590ad60e0800000000000000
+      internalID: -2274985673869155525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b7b237b56ff2410800000000000000
+      internalID: 1454652077298645884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daac886e289239f60800000000000000
+      internalID: 8039815401976679085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e757aae36aacce490800000000000000
+      internalID: -7715569246227761794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226521ce9b8f63ed0800000000000000
+      internalID: -2434485071133911518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b819fad7f9ededc00800000000000000
+      internalID: 927423349874725259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHitLeft
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 770
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5baa415fab728d0800000000000000
+      internalID: -2871120675648915978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70441568c231bf380800000000000000
+      internalID: -8936527953633655801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764b2c36605aca100800000000000000
+      internalID: 120652736894252135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc203f32c0bfb6b00800000000000000
+      internalID: 823027386486555339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756af99ea16a68780800000000000000
+      internalID: -8681068597191137705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e0cddf05388a400800000000000000
+      internalID: 335662556118781461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770a8cffda3f4b890800000000000000
+      internalID: -7443056355490357129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1160d5b8b579e580800000000000000
+      internalID: -8797370960906788581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHitRight
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a446092c27e1148b0800000000000000
+      internalID: -5169817419005270966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8712a9577b19e360800000000000000
+      internalID: 7199315678747301775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b17b004ac0480d40800000000000000
+      internalID: 5550757778136199601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e255cc21baec50800000000000000
+      internalID: 6695358601886884485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f156c22e4787a80800000000000000
+      internalID: -8468890584513962149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c337cbb4565f33760800000000000000
+      internalID: 7436557225129964348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHit_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc1f5afcc0382200800000000000000
+      internalID: 155427844076281051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunkHitUp
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a353ad9f292f220800000000000000
+      internalID: 2518236743458961990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
