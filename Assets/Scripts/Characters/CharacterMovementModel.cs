@@ -1,26 +1,25 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System;
+using Assets.Scripts.Player;
 
 /**
  * Model class for Main Character movement.
  */
 public class CharacterMovementModel : MonoBehaviour {
-    public float mSpeed;
+    [SerializeField] protected float mDefaultSpeed = 4f;
 
-    private Vector3 mMovementDirection;
-    private Rigidbody2D mRigidbody;
-    private Vector3 mCurrentDirection;
-    private bool mCanMove;
-    private bool mIsAttacking;
-    private Vector2 mKnockbackDirection;
-    private float mKnockbackTime;
+    protected Vector3 mMovementDirection;
+    protected Rigidbody2D mRigidbody;
+    protected Vector3 mCurrentDirection;
+    protected bool mCanMove;
+    protected Vector2 mKnockbackDirection;
+    protected float mKnockbackTime;
 
     void Awake() {
         mRigidbody = GetComponent<Rigidbody2D>();
         mRigidbody.constraints = RigidbodyConstraints2D.FreezeRotation;
         mCanMove = true;
-        mIsAttacking = false;
     }
 
     void FixedUpdate() {
@@ -28,7 +27,7 @@ public class CharacterMovementModel : MonoBehaviour {
         UpdateKnockbackTime();
     }
 
-    void UpdateMovement() {
+    protected virtual void UpdateMovement() {
         mMovementDirection.Normalize();
 
         if (IsKnockbacked())
@@ -36,11 +35,11 @@ public class CharacterMovementModel : MonoBehaviour {
             mRigidbody.velocity = mKnockbackDirection;
         } else
         {
-            mRigidbody.velocity = mMovementDirection * mSpeed;
+            mRigidbody.velocity = mMovementDirection * mDefaultSpeed;
         }
     }
 
-    void UpdateKnockbackTime()
+    protected void UpdateKnockbackTime()
     {
         if (IsKnockbacked())
         {
@@ -48,7 +47,8 @@ public class CharacterMovementModel : MonoBehaviour {
         }
     }
 
-    public void SetDirection(Vector2 direction) {
+    public void SetDirection(Vector2 direction)
+    {
         if (!mCanMove) {
             mMovementDirection = Vector3.zero;
             return;
@@ -61,19 +61,28 @@ public class CharacterMovementModel : MonoBehaviour {
         }
     }
 
-    public void SetCanMove(bool canMove) {
+    public bool CanMove()
+    {
+        return mCanMove;
+    }
+
+    public void SetCanMove(bool canMove) 
+    {
         mCanMove = canMove;
     }
 
-    public Vector3 GetMovementDirection() {
+    public Vector3 GetMovementDirection()
+    {
         return mMovementDirection;
     }
 
-    public Vector3 GetCurrentDirection() {
+    public Vector3 GetCurrentDirection()
+    {
         return mCurrentDirection;
     }
 
-    public bool IsMoving() {
+    public bool IsMoving()
+    {
         return mMovementDirection != Vector3.zero;
     }
 
@@ -87,32 +96,5 @@ public class CharacterMovementModel : MonoBehaviour {
     public bool IsKnockbacked()
     {
         return mKnockbackTime > 0;
-    }
-
-    public bool CanAttack()
-    {
-        return !IsAttacking();
-    }
-
-    public bool IsAttacking()
-    {
-        return mIsAttacking;
-    }
-
-    public void DoAttack()
-    {
-        Debug.Log("Attacking");
-    }
-
-    public void OnAttackStarted()
-    {
-        SetCanMove(false);
-        mIsAttacking = true;
-    }
-
-    public void OnAttackFinished()
-    {
-        SetCanMove(true);
-        mIsAttacking = false;
     }
 }

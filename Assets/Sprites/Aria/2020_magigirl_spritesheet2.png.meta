@@ -1,0 +1,1109 @@
+fileFormatVersion: 2
+guid: a860f513d97ad2040b53ac4598df0399
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3386919331938196198
+    second: mc_down_1
+  - first:
+      213: 1797463233978769545
+    second: 2020_magigirl_spritesheet2_1
+  - first:
+      213: -7037648684702265871
+    second: 2020_magigirl_spritesheet2_2
+  - first:
+      213: 8690378408950680222
+    second: mc_up_1
+  - first:
+      213: 6834393419717198418
+    second: 2020_magigirl_spritesheet2_4
+  - first:
+      213: 961746380728025895
+    second: 2020_magigirl_spritesheet2_5
+  - first:
+      213: 55979874299304933
+    second: 2020_magigirl_spritesheet2_6
+  - first:
+      213: 6606813099409872270
+    second: 2020_magigirl_spritesheet2_7
+  - first:
+      213: 4156574459334348856
+    second: 2020_magigirl_spritesheet2_8
+  - first:
+      213: -63431240964274480
+    second: 2020_magigirl_spritesheet2_9
+  - first:
+      213: -5537978729164771769
+    second: 2020_magigirl_spritesheet2_10
+  - first:
+      213: 817415979145377126
+    second: 2020_magigirl_spritesheet2_11
+  - first:
+      213: -7269522704210285978
+    second: 2020_magigirl_spritesheet2_12
+  - first:
+      213: -7524933147129816580
+    second: 2020_magigirl_spritesheet2_13
+  - first:
+      213: -8390397705869253397
+    second: 2020_magigirl_spritesheet2_14
+  - first:
+      213: 3180497423886127876
+    second: 2020_magigirl_spritesheet2_15
+  - first:
+      213: 2144341736464782018
+    second: 2020_magigirl_spritesheet2_16
+  - first:
+      213: 2017204026553918808
+    second: 2020_magigirl_spritesheet2_17
+  - first:
+      213: 7085057829433545695
+    second: 2020_magigirl_spritesheet2_18
+  - first:
+      213: 3182170299938692870
+    second: 2020_magigirl_spritesheet2_19
+  - first:
+      213: 8038388145419345489
+    second: 2020_magigirl_spritesheet2_20
+  - first:
+      213: 171807872945057453
+    second: 2020_magigirl_spritesheet2_21
+  - first:
+      213: 2899349236014235087
+    second: 2020_magigirl_spritesheet2_22
+  - first:
+      213: -7041333299868378420
+    second: 2020_magigirl_spritesheet2_23
+  - first:
+      213: 3923250193847274344
+    second: 2020_magigirl_spritesheet2_24
+  - first:
+      213: 3992050895163243226
+    second: 2020_magigirl_spritesheet2_25
+  - first:
+      213: 3911920480038420949
+    second: 2020_magigirl_spritesheet2_26
+  - first:
+      213: -7730845070681330310
+    second: 2020_magigirl_spritesheet2_27
+  - first:
+      213: 6951746445743832072
+    second: 2020_magigirl_spritesheet2_28
+  - first:
+      213: 5958803246661551005
+    second: 2020_magigirl_spritesheet2_29
+  - first:
+      213: -4951576451924794541
+    second: 2020_magigirl_spritesheet2_30
+  - first:
+      213: -6670996651408102098
+    second: 2020_magigirl_spritesheet2_31
+  - first:
+      213: 517827922120919561
+    second: 2020_magigirl_spritesheet2_32
+  - first:
+      213: -1147389960706812413
+    second: 2020_magigirl_spritesheet2_33
+  - first:
+      213: -8426921094135236823
+    second: 2020_magigirl_spritesheet2_34
+  - first:
+      213: 7759495550907454974
+    second: 2020_magigirl_spritesheet2_35
+  - first:
+      213: 5252539995103474479
+    second: 2020_magigirl_spritesheet2_36
+  - first:
+      213: 1485202374956658153
+    second: 2020_magigirl_spritesheet2_37
+  - first:
+      213: 8894878350984497850
+    second: 2020_magigirl_spritesheet2_38
+  - first:
+      213: 4670197999673355172
+    second: 2020_magigirl_spritesheet2_39
+  - first:
+      213: 8335205269103676371
+    second: 2020_magigirl_spritesheet2_40
+  - first:
+      213: -6214559870019592962
+    second: 2020_magigirl_spritesheet2_41
+  - first:
+      213: -6986958149726600722
+    second: 2020_magigirl_spritesheet2_42
+  - first:
+      213: -2015279557293946955
+    second: 2020_magigirl_spritesheet2_43
+  - first:
+      213: 5343413862317899799
+    second: 2020_magigirl_spritesheet2_44
+  - first:
+      213: -1244347378998769518
+    second: 2020_magigirl_spritesheet2_45
+  - first:
+      213: 8304200398214586511
+    second: 2020_magigirl_spritesheet2_46
+  - first:
+      213: 3594914029308311598
+    second: 2020_magigirl_spritesheet2_47
+  - first:
+      213: -1692492481151154838
+    second: 2020_magigirl_spritesheet2_48
+  - first:
+      213: 4982238304437348179
+    second: 2020_magigirl_spritesheet2_49
+  - first:
+      213: 5593014031342159428
+    second: 2020_magigirl_spritesheet2_50
+  - first:
+      213: 8817594367875678248
+    second: 2020_magigirl_spritesheet2_51
+  - first:
+      213: -979849925401237468
+    second: 2020_magigirl_spritesheet2_52
+  - first:
+      213: -513253136844191716
+    second: 2020_magigirl_spritesheet2_53
+  - first:
+      213: 1275801335998807751
+    second: 2020_magigirl_spritesheet2_54
+  - first:
+      213: -1491947921683431385
+    second: 2020_magigirl_spritesheet2_55
+  - first:
+      213: -4762041668359060908
+    second: 2020_magigirl_spritesheet2_56
+  - first:
+      213: 1413527198692028332
+    second: 2020_magigirl_spritesheet2_57
+  - first:
+      213: -2194426424096193569
+    second: 2020_magigirl_spritesheet2_58
+  - first:
+      213: 8268188431489692799
+    second: 2020_magigirl_spritesheet2_59
+  - first:
+      213: 139753916971201864
+    second: 2020_magigirl_spritesheet2_60
+  - first:
+      213: 7446720166062776377
+    second: 2020_magigirl_spritesheet2_61
+  - first:
+      213: -1008338110422515001
+    second: 2020_magigirl_spritesheet2_62
+  - first:
+      213: 6457067538636220411
+    second: 2020_magigirl_spritesheet2_63
+  - first:
+      213: -2702819977856795202
+    second: 2020_magigirl_spritesheet2_64
+  - first:
+      213: -8799321588011774550
+    second: 2020_magigirl_spritesheet2_65
+  - first:
+      213: 4232331889702544439
+    second: 2020_magigirl_spritesheet2_66
+  - first:
+      213: -1665225411704837239
+    second: 2020_magigirl_spritesheet2_67
+  - first:
+      213: 6644579051873569343
+    second: 2020_magigirl_spritesheet2_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40.96
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mc_down_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea541f0031c00f20800000000000000
+      internalID: 3386919331938196198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9802126b94fd1f810800000000000000
+      internalID: 1797463233978769545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd835eeecf355e90800000000000000
+      internalID: -7037648684702265871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mc_up_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aca3d8e1d6a9870800000000000000
+      internalID: 8690378408950680222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252c285ea94a8de50800000000000000
+      internalID: 6834393419717198418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723cf4bdc3fc85d00800000000000000
+      internalID: 961746380728025895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb5e2a2661e6c000800000000000000
+      internalID: 55979874299304933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8519bf628d10bb50800000000000000
+      internalID: 6606813099409872270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830d513c27e1fa930800000000000000
+      internalID: 4156574459334348856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d689a65f95ae1ff0800000000000000
+      internalID: -63431240964274480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ee672ffa52523b0800000000000000
+      internalID: -5537978729164771769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66530be808b085b00800000000000000
+      internalID: 817415979145377126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aa8e8bd977d1b90800000000000000
+      internalID: -7269522704210285978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9d3c6eb21129790800000000000000
+      internalID: -7524933147129816580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be42961adb15f8b80800000000000000
+      internalID: -8390397705869253397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40317c75e85632c20800000000000000
+      internalID: 3180497423886127876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c21707b27b32cd10800000000000000
+      internalID: 2144341736464782018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855eb32ef5c8efb10800000000000000
+      internalID: 2017204026553918808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd39c70ce8e235260800000000000000
+      internalID: 7085057829433545695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fd4a62707592c20800000000000000
+      internalID: 3182170299938692870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e5e66dd671e8f60800000000000000
+      internalID: 8038388145419345489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae6184a952626200800000000000000
+      internalID: 171807872945057453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdbd6cc4ce8c3820800000000000000
+      internalID: 2899349236014235087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca573c9ba8284e90800000000000000
+      internalID: -7041333299868378420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bcf39d34f227630800000000000000
+      internalID: 3923250193847274344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada3c7b632d966730800000000000000
+      internalID: 3992050895163243226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1044a43fee94630800000000000000
+      internalID: 3911920480038420949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7da5743e5586b490800000000000000
+      internalID: -7730845070681330310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c352b7f80997060800000000000000
+      internalID: 6951746445743832072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c4b35bfbe1b250800000000000000
+      internalID: 5958803246661551005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_30
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35365d89377784bb0800000000000000
+      internalID: -4951576451924794541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2deff6d3ebdb63a0800000000000000
+      internalID: -6670996651408102098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90acbc860c1bf2700800000000000000
+      internalID: 517827922120919561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306983de8e6a310f0800000000000000
+      internalID: -1147389960706812413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927b2d1a9ef8d0b80800000000000000
+      internalID: -8426921094135236823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5101c87144fab60800000000000000
+      internalID: 7759495550907454974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23bca0eb45c4e840800000000000000
+      internalID: 5252539995103474479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl_spritesheet2_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edabdae0bf7c9410800000000000000
+      internalID: 1485202374956658153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,3 +1,4 @@
+using Assets.Scripts.Player;
 using UnityEngine;
 
 /**
@@ -20,13 +21,16 @@ public class ContainerInteractable : BaseInteractable
 
     public override void OnInteract(Character character)
     {
-        if (mIsOpened)
+        if (character is PlayerModel)
         {
-            return;
-        }
+            if (mIsOpened)
+            {
+                return;
+            }
 
-        character.mInventory.AddItem(mContainedItem, mCount);
-        mSpriteRenderer.sprite = mOpenedSprite;
-        mIsOpened = true;
+            ((PlayerModel) character).mInventory.AddItem(mContainedItem, mCount);
+            mSpriteRenderer.sprite = mOpenedSprite;
+            mIsOpened = true;
+        }
     }
 }

@@ -33,6 +33,5 @@ public class AttackableEnemy : BaseAttackable
     public override void OnDestroy()
     {
         controller.OnDestroy();
-        Debug.Log("Destroyed object");
     }
 }

@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 564802d51e436ce46af43e007856bb94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8802355585933235541
+    second: aria_idle_down_old
+  - first:
+      213: 4736050778103572942
+    second: 2020_magigirl300p_1
+  - first:
+      213: -3596031622347032155
+    second: 2020_magigirl300p_2
+  - first:
+      213: -8239499930680948023
+    second: 2020_magigirl300p_3
+  - first:
+      213: 79175156967628752
+    second: aria_idle_up
+  - first:
+      213: 7096990715749332063
+    second: aria_walk_right_1
+  - first:
+      213: 8234759711063469497
+    second: aria_walk_right_2
+  - first:
+      213: 5169151826511582954
+    second: aria_idle_right
+  - first:
+      213: -4941197983499243609
+    second: aria_idle_left
+  - first:
+      213: -2290061099078151426
+    second: aria_walk_left_1
+  - first:
+      213: 4744561743499092088
+    second: aria_walk_left_2
+  - first:
+      213: 2359354632747314567
+    second: 2020_magigirl300p_11
+  - first:
+      213: -8720330855608506851
+    second: 2020_magigirl300p_12
+  - first:
+      213: 5402555654712992055
+    second: 2020_magigirl300p_13
+  - first:
+      213: -2010822798821101118
+    second: 2020_magigirl300p_14
+  - first:
+      213: 1872631048348029712
+    second: 2020_magigirl300p_15
+  - first:
+      213: 1468637636757777407
+    second: 2020_magigirl300p_16
+  - first:
+      213: 5623693514973853343
+    second: 2020_magigirl300p_17
+  - first:
+      213: -2419718236657569407
+    second: 2020_magigirl300p_18
+  - first:
+      213: 6468032952417056735
+    second: 2020_magigirl300p_19
+  - first:
+      213: 5652987428227501598
+    second: 2020_magigirl300p_20
+  - first:
+      213: -3923075093349704819
+    second: 2020_magigirl300p_21
+  - first:
+      213: -7375105502601112206
+    second: 2020_magigirl300p_22
+  - first:
+      213: -1243779200170980327
+    second: 2020_magigirl300p_23
+  - first:
+      213: -540660405783356996
+    second: 2020_magigirl300p_24
+  - first:
+      213: 3604472660338046883
+    second: 2020_magigirl300p_25
+  - first:
+      213: -2044292631496634235
+    second: 2020_magigirl300p_26
+  - first:
+      213: 5726681743059062884
+    second: 2020_magigirl300p_27
+  - first:
+      213: 3745295517615737491
+    second: 2020_magigirl300p_28
+  - first:
+      213: 2030206112021616683
+    second: 2020_magigirl300p_29
+  - first:
+      213: 4439295143953190090
+    second: 2020_magigirl300p_30
+  - first:
+      213: 575141973921250319
+    second: 2020_magigirl300p_31
+  - first:
+      213: 3885858588807767455
+    second: 2020_magigirl300p_32
+  - first:
+      213: 3092987298256820111
+    second: 2020_magigirl300p_33
+  - first:
+      213: 7263686392354740833
+    second: 2020_magigirl300p_34
+  - first:
+      213: 1915090919370123036
+    second: 2020_magigirl300p_35
+  - first:
+      213: -6179177062403021998
+    second: 2020_magigirl300p_36
+  - first:
+      213: 7965726648052796559
+    second: 2020_magigirl300p_37
+  - first:
+      213: 2438051237504058900
+    second: 2020_magigirl300p_38
+  - first:
+      213: 5556687867368824921
+    second: 2020_magigirl300p_39
+  - first:
+      213: -4250573354774601351
+    second: 2020_magigirl300p_40
+  - first:
+      213: -4144749164771720953
+    second: 2020_magigirl300p_41
+  - first:
+      213: 5936056264101490524
+    second: 2020_magigirl300p_42
+  - first:
+      213: 5097716622809989893
+    second: 2020_magigirl300p_43
+  - first:
+      213: 4828000676713012631
+    second: 2020_magigirl300p_44
+  - first:
+      213: 2267099498925620728
+    second: 2020_magigirl300p_45
+  - first:
+      213: 8986831522928615727
+    second: 2020_magigirl300p_46
+  - first:
+      213: -1641026965500074027
+    second: 2020_magigirl300p_47
+  - first:
+      213: 9204451458419248311
+    second: 2020_magigirl300p_48
+  - first:
+      213: 5127542699632574289
+    second: 2020_magigirl300p_49
+  - first:
+      213: -1843576629916891090
+    second: 2020_magigirl300p_50
+  - first:
+      213: -6916562268620196306
+    second: 2020_magigirl300p_51
+  - first:
+      213: -3447110817959952429
+    second: 2020_magigirl300p_52
+  - first:
+      213: 8143033172368149956
+    second: 2020_magigirl300p_53
+  - first:
+      213: 9188557396659789101
+    second: 2020_magigirl300p_54
+  - first:
+      213: 1098035966967928248
+    second: 2020_magigirl300p_55
+  - first:
+      213: 5516183898728149273
+    second: 2020_magigirl300p_56
+  - first:
+      213: 3474953277327409365
+    second: 2020_magigirl300p_57
+  - first:
+      213: -8348990009060487077
+    second: 2020_magigirl300p_58
+  - first:
+      213: 6213323516287435971
+    second: 2020_magigirl300p_59
+  - first:
+      213: 7315865524864625479
+    second: 2020_magigirl300p_60
+  - first:
+      213: 2630397696179245085
+    second: 2020_magigirl300p_61
+  - first:
+      213: 997366165805243575
+    second: 2020_magigirl300p_62
+  - first:
+      213: -6858200051447942094
+    second: 2020_magigirl300p_63
+  - first:
+      213: 965547316167240838
+    second: 2020_magigirl300p_64
+  - first:
+      213: 3765743036785431155
+    second: 2020_magigirl300p_65
+  - first:
+      213: 1394748466807326070
+    second: 2020_magigirl300p_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aria_idle_down_old
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 444
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555d93eb4cf382a70800000000000000
+      internalID: 8802355585933235541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 444
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9631b0715d9b140800000000000000
+      internalID: 4736050778103572942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 444
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9fee4ca44581ec0800000000000000
+      internalID: -3596031622347032155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 444
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca08e0c77a67ad80800000000000000
+      internalID: -8239499930680948023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aria_idle_up
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 444
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df5712c269491100800000000000000
+      internalID: 79175156967628752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aria_walk_right_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 303
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54fb7a54739d7260800000000000000
+      internalID: 7096990715749332063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aria_walk_right_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 303
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bde2acd35eb74270800000000000000
+      internalID: 8234759711063469497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aria_idle_right
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 303
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6d849e2348cb740800000000000000
+      internalID: 5169151826511582954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aria_idle_left
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 303
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afa6a41d965d6bb0800000000000000
+      internalID: -4941197983499243609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aria_walk_left_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 303
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2918b40911830e0800000000000000
+      internalID: -2290061099078151426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aria_walk_left_2
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 303
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870eb2894c118d140800000000000000
+      internalID: 4744561743499092088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 165
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d6310c98c1eb020800000000000000
+      internalID: 2359354632747314567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 165
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16a3930a492bf680800000000000000
+      internalID: -8720330855608506851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 165
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73122767ebbb9fa40800000000000000
+      internalID: 5402555654712992055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 222
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1f20a715f1814e0800000000000000
+      internalID: -2010822798821101118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 165
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013d620540cecf910800000000000000
+      internalID: 1872631048348029712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_16
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 168
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb67b24626a16410800000000000000
+      internalID: 1468637636757777407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_17
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 168
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f963fadc47f5b0e40800000000000000
+      internalID: 5623693514973853343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_18
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 201
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181bd7f751f6b6ed0800000000000000
+      internalID: -2419718236657569407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_19
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 171
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7f65c73b113c950800000000000000
+      internalID: 6468032952417056735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 24
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ecf3b7d12737e40800000000000000
+      internalID: 5652987428227501598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 24
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b55b9ecff6e89c0800000000000000
+      internalID: -3923075093349704819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magigirl300p_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 51
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2759e60de9c56a990800000000000000
+      internalID: -7375105502601112206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

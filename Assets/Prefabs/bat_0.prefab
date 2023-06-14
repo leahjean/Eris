@@ -185,6 +185,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mAnimator: {fileID: 5597829278788145321}
   mWeapon: {fileID: 0}
+  mProjectileEffect: {fileID: 0}
 --- !u!114 &7786041141258125998
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -198,6 +199,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mSpeed: 2
+  mDashSpeed: 25
+  mMaxDashTime: 0.3
 --- !u!50 &3522631870482963444
 Rigidbody2D:
   serializedVersion: 4

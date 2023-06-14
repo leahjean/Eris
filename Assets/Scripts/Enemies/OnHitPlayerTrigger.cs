@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Assets.Scripts.Player;
+using UnityEngine;
 
 public class OnHitPlayerTrigger : MonoBehaviour
 {
@@ -14,7 +15,8 @@ public class OnHitPlayerTrigger : MonoBehaviour
     {
         if (collider.tag == "Player")
         {
-            mEnemyBaseController.OnHitPlayer(collider.gameObject);
+            PlayerBaseControl playerController = collider.gameObject.GetComponent<PlayerBaseControl>();
+            mEnemyBaseController.OnHitPlayer(playerController);
         }
     }
 }

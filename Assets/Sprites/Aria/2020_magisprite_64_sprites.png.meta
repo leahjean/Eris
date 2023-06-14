@@ -1,0 +1,1163 @@
+fileFormatVersion: 2
+guid: 67565f0df4804ca438f25ca1b80bb134
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6136609425385200065
+    second: 2020_magisprite_64_sprites_0
+  - first:
+      213: 5625159272071763406
+    second: 2020_magisprite_64_sprites_1
+  - first:
+      213: -8378605219843638375
+    second: 2020_magisprite_64_sprites_2
+  - first:
+      213: 8892312192538212986
+    second: 2020_magisprite_64_sprites_3
+  - first:
+      213: -8415472347237528940
+    second: 2020_magisprite_64_sprites_4
+  - first:
+      213: -7951865512221524625
+    second: 2020_magisprite_64_sprites_5
+  - first:
+      213: 639617458354592342
+    second: 2020_magisprite_64_sprites_6
+  - first:
+      213: 6031203852293046320
+    second: 2020_magisprite_64_sprites_7
+  - first:
+      213: 7283416626813785378
+    second: 2020_magisprite_64_sprites_8
+  - first:
+      213: 5046386430435083910
+    second: 2020_magisprite_64_sprites_9
+  - first:
+      213: 8700854827477525479
+    second: 2020_magisprite_64_sprites_10
+  - first:
+      213: -3670743294470904333
+    second: 2020_magisprite_64_sprites_11
+  - first:
+      213: -6605252691379657112
+    second: 2020_magisprite_64_sprites_12
+  - first:
+      213: 9134508456358921346
+    second: 2020_magisprite_64_sprites_13
+  - first:
+      213: 452391369619995455
+    second: 2020_magisprite_64_sprites_14
+  - first:
+      213: 3484356515966279272
+    second: 2020_magisprite_64_sprites_15
+  - first:
+      213: -6278600921161340799
+    second: 2020_magisprite_64_sprites_16
+  - first:
+      213: 7268134718817836819
+    second: 2020_magisprite_64_sprites_17
+  - first:
+      213: -426356147717974584
+    second: 2020_magisprite_64_sprites_18
+  - first:
+      213: 7836635750240074429
+    second: 2020_magisprite_64_sprites_19
+  - first:
+      213: 2027512388865131402
+    second: 2020_magisprite_64_sprites_20
+  - first:
+      213: 7503126495173714116
+    second: 2020_magisprite_64_sprites_21
+  - first:
+      213: 5253906258054268194
+    second: 2020_magisprite_64_sprites_22
+  - first:
+      213: 6720350697297802089
+    second: 2020_magisprite_64_sprites_23
+  - first:
+      213: 1494614747878805642
+    second: 2020_magisprite_64_sprites_24
+  - first:
+      213: -5891224547790726759
+    second: 2020_magisprite_64_sprites_25
+  - first:
+      213: 4205606354851717163
+    second: 2020_magisprite_64_sprites_26
+  - first:
+      213: 1429056262495580966
+    second: 2020_magisprite_64_sprites_27
+  - first:
+      213: 4451575262654657159
+    second: 2020_magisprite_64_sprites_28
+  - first:
+      213: 1324640603569401610
+    second: 2020_magisprite_64_sprites_29
+  - first:
+      213: 5596250550202295042
+    second: 2020_magisprite_64_sprites_30
+  - first:
+      213: 3276251803445111111
+    second: 2020_magisprite_64_sprites_31
+  - first:
+      213: -5893953657473796672
+    second: 2020_magisprite_64_sprites_32
+  - first:
+      213: 7099357475800858041
+    second: 2020_magisprite_64_sprites_33
+  - first:
+      213: -4953309067992642567
+    second: 2020_magisprite_64_sprites_34
+  - first:
+      213: -7017592025430409274
+    second: 2020_magisprite_64_sprites_35
+  - first:
+      213: -5228555358008483354
+    second: 2020_magisprite_64_sprites_36
+  - first:
+      213: 1023691572088864053
+    second: 2020_magisprite_64_sprites_37
+  - first:
+      213: 151311344639341583
+    second: 2020_magisprite_64_sprites_38
+  - first:
+      213: 4348928024688744993
+    second: 2020_magisprite_64_sprites_39
+  - first:
+      213: -6396350371224006686
+    second: 2020_magisprite_64_sprites_40
+  - first:
+      213: 3165465075209296480
+    second: 2020_magisprite_64_sprites_41
+  - first:
+      213: 503653161111776127
+    second: 2020_magisprite_64_sprites_42
+  - first:
+      213: 8717230943669958453
+    second: 2020_magisprite_64_sprites_43
+  - first:
+      213: 5567844588787866601
+    second: 2020_magisprite_64_sprites_44
+  - first:
+      213: -1792533918239876658
+    second: 2020_magisprite_64_sprites_45
+  - first:
+      213: 180242897609998826
+    second: 2020_magisprite_64_sprites_46
+  - first:
+      213: 24033272796761071
+    second: 2020_magisprite_64_sprites_47
+  - first:
+      213: 347897072264433890
+    second: 2020_magisprite_64_sprites_48
+  - first:
+      213: 1253374266605171358
+    second: 2020_magisprite_64_sprites_49
+  - first:
+      213: -8551133242613634488
+    second: 2020_magisprite_64_sprites_50
+  - first:
+      213: -7672698606609557318
+    second: 2020_magisprite_64_sprites_51
+  - first:
+      213: 6735043490470073151
+    second: 2020_magisprite_64_sprites_52
+  - first:
+      213: 126865979557390028
+    second: 2020_magisprite_64_sprites_53
+  - first:
+      213: -4599461657339108892
+    second: 2020_magisprite_64_sprites_54
+  - first:
+      213: 8681476374858454423
+    second: 2020_magisprite_64_sprites_55
+  - first:
+      213: -5279922914571849159
+    second: 2020_magisprite_64_sprites_56
+  - first:
+      213: 3184649058541875207
+    second: 2020_magisprite_64_sprites_57
+  - first:
+      213: 7150296552094158037
+    second: 2020_magisprite_64_sprites_58
+  - first:
+      213: -79697287183682017
+    second: 2020_magisprite_64_sprites_59
+  - first:
+      213: 4577078796517433657
+    second: 2020_magisprite_64_sprites_60
+  - first:
+      213: -1172701181760213650
+    second: 2020_magisprite_64_sprites_61
+  - first:
+      213: -8005345044218464427
+    second: 2020_magisprite_64_sprites_62
+  - first:
+      213: -7863808928910408154
+    second: 2020_magisprite_64_sprites_63
+  - first:
+      213: -8016905956117132839
+    second: 2020_magisprite_64_sprites_64
+  - first:
+      213: 6412364447550090961
+    second: 2020_magisprite_64_sprites_65
+  - first:
+      213: -1138766376830120789
+    second: 2020_magisprite_64_sprites_66
+  - first:
+      213: 5358255082736009242
+    second: 2020_magisprite_64_sprites_67
+  - first:
+      213: 8810302829742082581
+    second: 2020_magisprite_64_sprites_68
+  - first:
+      213: 2656049810843054007
+    second: 2020_magisprite_64_sprites_69
+  - first:
+      213: -2375912892684005469
+    second: 2020_magisprite_64_sprites_70
+  - first:
+      213: 7906104602834870283
+    second: 2020_magisprite_64_sprites_71
+  - first:
+      213: 2447848105001957039
+    second: 2020_magisprite_64_sprites_72
+  - first:
+      213: 4628474052874101561
+    second: 2020_magisprite_64_sprites_73
+  - first:
+      213: 2148103363350711981
+    second: 2020_magisprite_64_sprites_74
+  - first:
+      213: -8248359697052444058
+    second: 2020_magisprite_64_sprites_75
+  - first:
+      213: 7038414166435853888
+    second: 2020_magisprite_64_sprites_76
+  - first:
+      213: -4281017639876605906
+    second: 2020_magisprite_64_sprites_77
+  - first:
+      213: 3120303710731190735
+    second: 2020_magisprite_64_sprites_78
+  - first:
+      213: -7843312266056716472
+    second: 2020_magisprite_64_sprites_79
+  - first:
+      213: 637998022292728348
+    second: 2020_magisprite_64_sprites_80
+  - first:
+      213: -5946331506958735709
+    second: 2020_magisprite_64_sprites_81
+  - first:
+      213: 1296554655633343129
+    second: 2020_magisprite_64_sprites_82
+  - first:
+      213: 8371115954785842014
+    second: 2020_magisprite_64_sprites_83
+  - first:
+      213: -2744346405170433722
+    second: 2020_magisprite_64_sprites_84
+  - first:
+      213: 5334403467021037703
+    second: 2020_magisprite_64_sprites_85
+  - first:
+      213: -1598504507647789275
+    second: 2020_magisprite_64_sprites_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40.96
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36e992ad3266daa0800000000000000
+      internalID: -6136609425385200065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec515d8fd84901e40800000000000000
+      internalID: 5625159272071763406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 599
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b7cfdb1f639bb80800000000000000
+      internalID: -8378605219843638375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a7d1c53d6d76b70800000000000000
+      internalID: 8892312192538212986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 592
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ac8cdbc7c363b80800000000000000
+      internalID: -8415472347237528940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 585
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d3b5a827c45a190800000000000000
+      internalID: -7951865512221524625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a1d5580b060e800800000000000000
+      internalID: 639617458354592342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03005efe2f323b350800000000000000
+      internalID: 6031203852293046320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225d86835d4e31560800000000000000
+      internalID: 7283416626813785378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6864f69b8bd580640800000000000000
+      internalID: 5046386430435083910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e36a02dd55afb870800000000000000
+      internalID: 8700854827477525479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f52a6f0c66ee0dc0800000000000000
+      internalID: -3670743294470904333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666f9e5cad6554a0800000000000000
+      internalID: -6605252691379657112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284431b5b0b44ce70800000000000000
+      internalID: 9134508456358921346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bf6a5cd87374600800000000000000
+      internalID: 452391369619995455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86edcf45acbea5030800000000000000
+      internalID: 3484356515966279272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188ecb74abdedd8a0800000000000000
+      internalID: -6278600921161340799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f12deb40a9dd460800000000000000
+      internalID: 7268134718817836819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c55773b757451af0800000000000000
+      internalID: -426356147717974584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbabf2fc1b251cc60800000000000000
+      internalID: 7836635750240074429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83820486cb232c10800000000000000
+      internalID: 2027512388865131402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0a6a94bc5702860800000000000000
+      internalID: 7503126495173714116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225c682c7ef99e840800000000000000
+      internalID: 5253906258054268194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963fb7e6a5b734d50800000000000000
+      internalID: 6720350697297802089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a805063c130fdb410800000000000000
+      internalID: 1494614747878805642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9995fd0ac7a2e3ea0800000000000000
+      internalID: -5891224547790726759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20ef0e82b05d5a30800000000000000
+      internalID: 4205606354851717163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623b81a691705d310800000000000000
+      internalID: 1429056262495580966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782727dad1c27cd30800000000000000
+      internalID: 4451575262654657159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f20d65c91126210800000000000000
+      internalID: 1324640603569401610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20364e6a930e9ad40800000000000000
+      internalID: 5596250550202295042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749241b28a5977d20800000000000000
+      internalID: 3276251803445111111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f8a34068743ea0800000000000000
+      internalID: -5893953657473796672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdbf9e920cf58260800000000000000
+      internalID: 7099357475800858041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbc39b75af424bb0800000000000000
+      internalID: -4953309067992642567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf3b91db318c9e90800000000000000
+      internalID: -7017592025430409274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1607d9a907077b0800000000000000
+      internalID: -5228555358008483354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2020_magisprite_64_sprites_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dfae1af02e43e00800000000000000
+      internalID: 1023691572088864053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

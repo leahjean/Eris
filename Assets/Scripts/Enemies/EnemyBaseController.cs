@@ -1,9 +1,11 @@
-﻿using UnityEngine;
+﻿using Assets.Scripts.Player;
+using UnityEngine;
 
 public class EnemyBaseController : CharacterBaseControl
 {
     public float mKnockbackStrength;
     public float mKnockbackTime;
+    public float mBaseDamage;
 
     GameObject mCharacterInRange;
 
@@ -29,14 +31,15 @@ public class EnemyBaseController : CharacterBaseControl
         mCharacterInRange = characterInRange;
     }
 
-    public void OnHitPlayer(GameObject player)
+    public void OnHitPlayer(PlayerBaseControl playerBaseControl)
     {
-        Vector2 direction = player.transform.position - transform.position;
-        direction.Normalize();
-
-        player.GetComponent<Character>()
-            .mMovementModel
-            .KnockBack(direction * mKnockbackStrength, mKnockbackTime);
+        AttackParams attackParams = AttackParams.Builder()
+            .KnockbackStrength(mKnockbackStrength)
+            .KnockbackTime(mKnockbackTime)
+            .BaseDamage(mBaseDamage)
+            .AttackerTransform(transform)
+            .Build();
+        playerBaseControl.OnAttacked(attackParams);
     }
 
     public void OnGetHit(Character player)

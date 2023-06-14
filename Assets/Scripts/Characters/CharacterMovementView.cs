@@ -1,83 +1,41 @@
-﻿using UnityEngine;
+﻿using Assets.Scripts.Player;
+using UnityEngine;
 
+[RequireComponent(typeof(Animator))]
 public class CharacterMovementView : MonoBehaviour
 {
     public Animator mAnimator;
-    public UnityEngine.Transform mWeapon;
 
-    private CharacterMovementModel mMovementModel;
+    protected Character mCharacter;
 
-    void Awake()
+    protected void Awake()
     {
-        mMovementModel = GetComponent<CharacterMovementModel>();
-
-        if (mAnimator == null)
-        {
-            Debug.LogError("Character Animator is not setup!");
-            enabled = false;
-        }
-
-        SetWeaponVisibility(false);
+        mCharacter = GetComponent<Character>();
     }
 
-    void FixedUpdate()
+    protected void FixedUpdate()
     {
         UpdateDirection();
         UpdateKnockback();
     }
 
-    void UpdateDirection()
+    protected virtual void UpdateDirection()
     {
-        if (mMovementModel.IsAttacking())
-        {
-            mAnimator.SetBool("isMoving", false);
-            return;
-        }
-
-        Vector3 direction = mMovementModel.GetMovementDirection();
+        Vector3 direction = mCharacter.mMovementModel.GetMovementDirection();
         if (direction != Vector3.zero)
         {
             mAnimator.SetFloat( "directionX", direction.x );
             mAnimator.SetFloat( "directionY", direction.y );
         }
 
-        mAnimator.SetBool("isMoving", mMovementModel.IsMoving());
+        mAnimator.SetBool("isMoving", mCharacter.mMovementModel.IsMoving());
     }
 
     void UpdateKnockback()
     {
-        mAnimator.SetBool("isKnockbacked", mMovementModel.IsKnockbacked());
+        mAnimator.SetBool("isKnockbacked", mCharacter.mMovementModel.IsKnockbacked());
     }
 
-    public void DoAttack()
-    {
-        if (mMovementModel.CanAttack())
-        {
-            mAnimator.SetTrigger("doAttack");
-        }
-    }
-
-    public void OnAttackStarted()
-    {
-        SetWeaponVisibility(true);
-    }
-
-    public void OnAttackFinished()
-    {
-        SetWeaponVisibility(false);
-    }
-
-    private void SetWeaponVisibility(bool visible)
-    {
-        if (mWeapon == null)
-        {
-            return;
-        }
-        for (int i = 0; i < mWeapon.childCount; i++)
-        {
-            mWeapon.GetChild(i).gameObject.SetActive(visible);
-        }
-    }
 
     // Todo: Make this only for enemies
     public void OnDestroy()

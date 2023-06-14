@@ -14,6 +14,7 @@ public class ProximityTrigger : MonoBehaviour
     {
         if (collider.tag == "Player")
         {
+            Debug.Log("Okay");
             mEnemyBaseController.SetCharacterInRange(collider.gameObject);
         }
     }

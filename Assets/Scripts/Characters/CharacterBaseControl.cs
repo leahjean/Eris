@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Assets.Scripts.Enemies;
+using UnityEngine;
 
 public class CharacterBaseControl : MonoBehaviour {
     protected Character mCharacterModel;
@@ -9,24 +10,12 @@ public class CharacterBaseControl : MonoBehaviour {
         mCharacterMovementView = GetComponent<CharacterMovementView>();
     }
 
-    protected void OnAttackPressed() {
-        mCharacterModel.mMovementModel.DoAttack();
-        mCharacterMovementView.DoAttack();
-    }
-
-    protected void Interact() {
-        Vector3 currentDirection = mCharacterModel.mMovementModel.GetCurrentDirection();
-    	mCharacterModel.mInteractionModel.OnInteract(currentDirection, mCharacterModel);
-    }
-
-    protected void Escape() {
-        mCharacterModel.mInteractionModel.OnEscape(mCharacterModel);
-    }
-
     protected void SetDirection(Vector2 direction) {
-        if (mCharacterModel.mMovementModel == null) {
-            Debug.LogError("No movement Model");
-        }
         mCharacterModel.mMovementModel.SetDirection(direction);
+    }
+
+    public void SetCanMove(bool canMove)
+    {
+        mCharacterModel.SetCanMove(canMove);
     }
 }
